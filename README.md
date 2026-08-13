@@ -1,8 +1,6 @@
 # ProofStamp — Đóng dấu thời gian (Proof-of-Existence) trên Stellar
 
-Dự án được phát triển dựa trên ý tưởng của [stellar-notes-dapp](https://github.com/minhbear/stellar-notes-dapp)
-(cùng dùng Soroban SDK trên Stellar), nhưng thay đổi mục đích sử dụng:
-thay vì lưu note, contract này lưu **hash của nội dung + timestamp** để
+contract lưu **hash của nội dung + timestamp** để
 chứng minh "tôi đã sở hữu/tạo ra nội dung này tại thời điểm này".
 
 ## Vấn đề giải quyết
