@@ -5,8 +5,7 @@
 A tool that lets writers, developers, musicians, screenwriters, startup
 founders... prove "I created/owned this content at this point in time" by
 recording the content's hash (a digital fingerprint) on the Stellar
-blockchain (Soroban smart contract). Built on the architecture of
-[stellar-notes-dapp](https://github.com/minhbear/stellar-notes-dapp).
+blockchain (Soroban smart contract).
 
 ## The problem
 

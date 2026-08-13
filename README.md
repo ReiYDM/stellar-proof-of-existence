@@ -3,8 +3,7 @@
 Công cụ giúp nhà văn, lập trình viên, nhạc sĩ, biên kịch, founder startup...
 chứng minh "tôi đã sở hữu/tạo ra nội dung này tại thời điểm này", bằng cách
 ghi hash (dấu vân tay số) của nội dung lên blockchain Stellar (Soroban smart
-contract). Dự án phát triển dựa trên kiến trúc của
-[stellar-notes-dapp](https://github.com/minhbear/stellar-notes-dapp).
+contract).
 
 ## Vấn đề giải quyết
 
